@@ -1,4 +1,4 @@
-import CursorChat from '../lib/dist';
+import CursorChat from '../lib/cursor-chat';
 
 export default function App() {
     return (

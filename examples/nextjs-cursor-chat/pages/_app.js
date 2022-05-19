@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import '../lib/dist/dracula.css';
+import '../lib/cursor-chat/dracula.css';
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
